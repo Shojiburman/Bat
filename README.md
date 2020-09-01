@@ -1,1 +1,1 @@
-# Bat is a logo design which is coded with opengl
+# Bat is a logo design which is coded with Opengl
